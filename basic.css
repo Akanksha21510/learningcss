@@ -1,5 +1,44 @@
+body{
+    background-color: black;
+}
 p {
-    color: red;
-    text-align: center;
+    color: white;
+    text-align: left;
+    background-color: olive;
+    line-height: normal;
+   
   }
-  
+  h1{
+    text-align: center;
+    color: white;
+    font-weight: normal;
+    letter-spacing:normal;
+  } 
+  h3{
+    color: white;
+    text-decoration:underline; 
+    
+  }
+  /*css selectors--element selecter, list selector,id selector, class selecter, descendant selecter,adjecent selecter, direct child selector, 
+  attribute selecter*/
+
+/*form{
+    background: white;
+}
+*/
+input, lable{
+    background-color: pink;
+}
+ #fname{
+    color: blueviolet;
+ }
+ .fn{
+    background-color: aqua;
+ }
+ div input{
+    background-color: brown;
+ }
+ /*div+form{
+    
+ }*/
+   
